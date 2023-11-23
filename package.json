@@ -1,0 +1,22 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "node_basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rustam6161/learning_node.git"
+  },
+  "author": "Rustam Salimbayev <rustam61it@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rustam6161/learning_node/issues"
+  },
+  "homepage": "https://github.com/Rustam6161/learning_node#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
